@@ -20,5 +20,5 @@ Me encantaria sus consejos y ayudas para mejorar en este camino
 
 ## Authors
 
-ex. Alirio Angel
-ex. [@_AlirioAngel](https://twitter.com/_AlirioAngel)
+Alirio Angel
+[@_AlirioAngel](https://twitter.com/_AlirioAngel)
