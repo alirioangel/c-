@@ -1,0 +1,65 @@
+
+			BIENVENIDOS A ESTE JUEGO EPICO:
+				Creado por: Alirio
+				Proyecto: Platzi
+                        /\
+                        ||
+                        ||
+                        ||
+                        ||                                               ~-----~
+                        ||                                            /===--  ---~~~
+                        ||                   ;'                 /==~- --   -    ---~~~
+                        ||                (/ ('              /=----         ~~_  --(  '
+                        ||             ' / ;'             /=----               \__~
+     '                ~==_=~          '('             ~-~~      ~~~~        ~~~--\~'
+     \\                (c_\_        .i.             /~--    ~~~--   -~     (     '
+      `\               (}| /       / : \           / ~~------~     ~~\   (
+      \ '               ||/ \      |===|          /~/             ~~~ \ \(
+      ``~\              ~~\  )~.~_ >._.< _~-~     |`_          ~~-~     )\
+       '-~                 {  /  ) \___/ (   \   |` ` _       ~~         '
+       \ -~\                -<__/  -   -  L~ -;   \\    \ _ _/
+       `` ~~=\                  {    :    }\ ,\    ||   _ :(
+        \  ~~=\__                \ _/ \_ /  )  } _//   ( `|'
+        ``    , ~\--~=\           \     /  / _/ / '    (   '
+         \`    } ~ ~~ -~=\   _~_  / \ / \ )^ ( // :_  / '
+         |    ,          _~-'   '~~__-_  / - |/     \ (
+          \  ,_--_     _/              \_'---', -~ .   \
+           )/      /\ / /\   ,~,         \__ _}     \_  "~_
+           ,      { ( _ )'} ~ - \_    ~\  (-:-)       "\   ~ 
+                  /'' ''  )~ \~_ ~\   )->  \ :|    _,       " 
+                 (\  _/)''} | \~_ ~  /~(   | :)   /          }
+                <``  >;,,/  )= \~__ {{{ '  \ =(  ,   ,       ;
+               {o_o }_/     |v  '~__  _    )-v|  "  :       ,"
+               {/"\_)       {_/'  \~__ ~\_ \\_} '  {        /~\
+               ,/!          '_/    '~__ _-~ \_' :  '      ,"  ~ 
+              (''`                  /,'~___~    | /     ,"  \ ~' 
+             '/, )                 (-)  '~____~";     ,"     , }
+           /,')                    / \         /  ,~-"       '~'
+       (  ''/                     / ( '       /  /          '~'
+    ~ ~  ,, /) ,                 (/( \)      ( -)          /~'
+  (  ~~ )`  ~}                   '  \)'     _/ /           ~'
+ { |) /`,--.(  }'                    '     (  /          /~'
+(` ~ ( c|~~| `}   )                        '/:\         ,'
+ ~ )/``) )) '|),                          (/ | \)                 
+  (` (-~(( `~`'  )                        ' (/ '
+   `~'    )'`')                              '
+     ` ``
+
+REGLAS:
+- PARA MOVERTE DENTRO DEL JUEGO USAREMOS LOS CARACTERES
+	- 'W' => HACIA ARRIBA
+	- 'A' => HACIA LA IZQUIERDA
+	- 'S' => HACIA ABAJO
+	- 'D' => HACIA LA DERECHA
+
+- LOS ENEMIGOS ESTAN REPRESENTADOS CON EL CARACTER 'E'
+- EL JUGADOR ESTA REPRESENTADO CON EL CARACTER 'P'
+- EL TESORO ESTA REPRESENTADO POR EL CARACTER '$'
+- LAS ESCALERAS ESTAN REPRESENTADAS POR EL CARACTER 'H'
+- LAS PAREDES ESTAN REPRESENTADAS POR EL CARACTER '@'
+
+- EL JUEGO CONSISTE EN ENCONTRAR EL TESORO DEL LABERINTO, ESTE LABERINTO TIENE 3
+NIVELES CADA UNO PEOR QUE EL ANTERIOR. ESTAS DISPUESTO A ADENTRARTE A LA AVENTURA!
+
+
+		PRESIONA CUALQUIER TECLA Y ENTER PARA EMPEZAR.
